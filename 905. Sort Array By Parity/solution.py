@@ -11,3 +11,7 @@ class Solution:
                 arrOdd.append(x)
         return arrEven+arrOdd
 # solution 2
+
+# left=0
+# fot right in range (len(nums)):
+       
